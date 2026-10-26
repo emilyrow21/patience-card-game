@@ -1,4 +1,3 @@
-# patience-card-game
 # Patience Card Game
 
 A Java-based Patience card game developed as a university Computer Science project. 
